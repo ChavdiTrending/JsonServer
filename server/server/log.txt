@@ -1,0 +1,11 @@
+Starting up http-server, serving ./
+Available on:
+  http://127.0.0.1:8080
+  http://192.168.1.8:8080
+Hit CTRL-C to stop the server
+[Wed Apr 11 2018 17:16:03 GMT+0530 (IST)] "GET /" "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/64.0.3282.186 Safari/537.36"
+[Wed Apr 11 2018 17:16:15 GMT+0530 (IST)] "GET /log.txt" "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/64.0.3282.186 Safari/537.36"
+[Wed Apr 11 2018 17:16:25 GMT+0530 (IST)] "GET /Postlinks.json" "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/64.0.3282.186 Safari/537.36"
+[Wed Apr 11 2018 17:16:28 GMT+0530 (IST)] "GET /Tweetlinks.json" "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/64.0.3282.186 Safari/537.36"
+[Wed Apr 11 2018 17:16:39 GMT+0530 (IST)] "GET /Videolinks.json" "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/64.0.3282.186 Safari/537.36"
+http-server stopped.
